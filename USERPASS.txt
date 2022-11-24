@@ -1,0 +1,10 @@
+USERNAMAE :AnpTeam
+PASSWORD :Teamkung351086
+EMAIl:tiop378@gmail.com
+https://github.com/AnpTeam/2213111335_JavaProgram_Sec1.git
+
+
+git status
+git add .
+git commit -m ""
+git push -u oringin main

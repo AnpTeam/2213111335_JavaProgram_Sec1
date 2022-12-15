@@ -5,7 +5,7 @@ public class Lab402 {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Input some sentence: ");
 		String sentence = scan.nextLine();
-		while (!(sentence.endsWith("."))) {
+		while (!(sentence.contains("."))) {
 			System.out.print("The sentence must end with full stop point: ");
 			sentence = scan.nextLine();
 		}

@@ -1,4 +1,4 @@
 StudentID:2213111335
 Fullname:Anupap Puangwalaisin
 AKA:AnpTeam
-ClassDetail:  Lab Sheet 6 : Array in Java
+ClassDetail:  Lab Sheet 7 : Class and Object, Array of Object

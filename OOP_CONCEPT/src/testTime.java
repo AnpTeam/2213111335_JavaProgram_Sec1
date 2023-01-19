@@ -1,0 +1,25 @@
+
+public class testTime {
+
+	public static void main(String[] args) {
+		Time t1 = new Time(1, 2, 3);
+		System.out.println(t1);
+		
+		Time t2 =new Time();
+		System.out.println(t2);
+		
+		t1.setHour(4);
+		t1.setMins(5);
+		t1.setSecond(6);
+		System.out.println(t1);
+
+		System.out.println("hour is" + t1.getHour() + " hr.");
+		System.out.println("Minute is" + t1.getMins() + " Minute");
+		System.out.println("Second is" + t1.getSecond() + " sec.");
+		
+		t1.setTime(23,59,59);
+		
+		t1.nextSecond();
+		System.out.println("\n "+t1);
+	}
+}

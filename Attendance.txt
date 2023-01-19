@@ -1,4 +1,4 @@
 StudentID:2213111335
 Fullname:Anupap Puangwalaisin
 AKA:AnpTeam
-ClassDetail:  Wrap up Lab Sheet
+ClassDetail: Lab Sheet 8 : Encapsulation
